@@ -8,7 +8,7 @@ const App = () => {
     <div>
       <Header />
       <Random />
-      <div className="mb2">
+      <div className="row mb2">
         <div className="col-md-6">
           <ItemList />
         </div>

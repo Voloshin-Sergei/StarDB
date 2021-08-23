@@ -1,3 +1,7 @@
+.lds-css {
+  margin: 0 auto;
+}
+
 @keyframes ldio-gtmy8xnpiun {
   0% { transform: rotate(0) }
   100% { transform: rotate(360deg) }
